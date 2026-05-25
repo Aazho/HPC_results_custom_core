@@ -65,6 +65,12 @@ Green = normal run, orange = exploit run.
 
 ![heatmap](plots/signature_heatmap.png)
 
+### Higher Workload standalone results
+
+![heatmap_standalone_heavy](signature_heatmap.png)
+
+![heatmap_standalone_heavy](all_counters_standalone.png)
+
 ## Results — insulin pump
 
 ### Benign vs.  ROP attacks
