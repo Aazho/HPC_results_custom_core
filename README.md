@@ -152,3 +152,12 @@ Green = normal run, orange = exploit run.
     - Sample-size and class-imbalance constraints
     - Detector evaluation (classifiers, Z-scores, ...) 
 9. Conclusion
+
+## Experimental Evaluation Plan
+
+Select a threshold for which we choose interesting counters to explain (for standalone and insulin pump)
+Explain limitations an the reason of the high standard deviation (TLB size)
+Answering to "Is the HPC detection possible ?" 
+-> For standalone comparison with papers (all the execution) 
+-> for Insulin pump, by event shorter time window
+
